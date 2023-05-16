@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T11:22:46 IST" name="Default suite" finished-at="2023-05-15T11:23:00 IST" duration-ms="13679">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T11:22:46 IST" name="Default test" finished-at="2023-05-15T11:23:00 IST" duration-ms="13679">
+      <class name="com.mini.project.Project">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:46 IST" name="Setup" finished-at="2023-05-15T11:22:50 IST" duration-ms="3422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="linkText()[pri:1, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:50 IST" name="linkText" finished-at="2023-05-15T11:22:53 IST" duration-ms="3213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkText -->
+        <test-method signature="userName()[pri:2, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:53 IST" name="userName" finished-at="2023-05-15T11:22:53 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userName -->
+        <test-method signature="password()[pri:3, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:53 IST" name="password" finished-at="2023-05-15T11:22:53 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="comments()[pri:4, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:53 IST" name="comments" finished-at="2023-05-15T11:22:54 IST" duration-ms="927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comments -->
+        <test-method signature="Checkboxs()[pri:5, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:54 IST" name="Checkboxs" finished-at="2023-05-15T11:22:54 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkboxs -->
+        <test-method signature="Checkbox()[pri:6, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:54 IST" name="Checkbox" finished-at="2023-05-15T11:22:55 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkbox -->
+        <test-method signature="radioButtons()[pri:7, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:55 IST" name="radioButtons" finished-at="2023-05-15T11:22:55 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtons -->
+        <test-method signature="radioButton()[pri:8, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:55 IST" name="radioButton" finished-at="2023-05-15T11:22:58 IST" duration-ms="3132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButton -->
+        <test-method signature="Submit()[pri:9, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:58 IST" name="Submit" finished-at="2023-05-15T11:22:59 IST" duration-ms="953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mini.project.Project@1b11171f]" started-at="2023-05-15T11:22:59 IST" name="tearDown" finished-at="2023-05-15T11:23:00 IST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mini.project.Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
